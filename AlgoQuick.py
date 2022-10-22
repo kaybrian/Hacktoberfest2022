@@ -1,5 +1,5 @@
 #Input the values into the list 
-arr = list(map(int, input().split(" "))
+arr = list(map(int, input().split(" ")))
            
 def part(arr, low, high):
            i = arr[low]
