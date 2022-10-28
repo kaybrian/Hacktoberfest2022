@@ -1,0 +1,6 @@
+def reverse_input():
+    rev = input("")
+    rev = rev[::-1]
+    print(rev)
+    
+reverse_input()
